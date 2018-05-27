@@ -1,10 +1,11 @@
-# Apache Tomcat v9.0.8
-# OpenSSL v1.1.1-pre6
-# libtcnative v1.2.16
-# Apache Portable Runtime v1.6.3
-# jsvc v1.1.0
-# Oracle JDK v8u172
-# 1WaySSL + 2WaySSL + Java NIO2 (HTTP/HTTPS/AJP)
+# Features
+- Apache Tomcat v9.0.8
+- OpenSSL v1.1.1-pre6
+- libtcnative v1.2.16
+- Apache Portable Runtime v1.6.3
+- jsvc v1.1.0
+- Oracle JDK v8u172
+- 1WaySSL + 2WaySSL + Java NIO2 (HTTP/HTTPS/AJP)
 
 # Build Docker Image
 :/>docker build -t localhost:5000/tomcat:9.0 .
