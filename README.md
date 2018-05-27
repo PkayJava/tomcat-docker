@@ -39,3 +39,6 @@
 
 # Docker Remove
 :/>docker rm tomcat9.0
+
+# War(s)
+- replace /opt/java according to your preference

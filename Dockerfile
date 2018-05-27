@@ -1,4 +1,4 @@
-FROM localhost:5000/ubuntu:18.04
+FROM ubuntu:18.04
 
 MAINTAINER Socheat KHAUV pkayjava@gmail.com
 
