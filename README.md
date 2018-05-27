@@ -13,3 +13,11 @@
 # Docker Run
 :/>docker run -v /opt/java:/opt/java/localhost -p 8443:8443 -p 8444:8444 -p 8080:8080 -p 8009:8009 -p 8005:8005 -it -d --name tomcat9.0 localhost:5000/tomcat:9.0
 
+# Docker Stop
+:/>docker stop tomcat9.0
+
+# Docker Start
+:/>docker start tomcat9.0
+
+# Docker Remove
+:/>docker rm tomcat9.0
