@@ -79,3 +79,4 @@ else
     cd /tmp && wget http://www-eu.apache.org/dist/commons/daemon/source/commons-daemon-1.1.0-native-src.tar.gz
 fi
 cd /tmp && tar -zxvf commons-daemon-1.1.0-native-src.tar.gz && cd commons-daemon-1.1.0-native-src/unix && ./configure --with-java=$JAVA_HOME && make && cp jsvc $TOMCAT_HOME/bin
+
