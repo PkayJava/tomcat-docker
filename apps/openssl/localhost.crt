@@ -1,0 +1,89 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=KH, ST=Kandal, L=Phnom Penh, O=Angkor Team, OU=Information Technology, CN=Angkor Team/emailAddress=pkayjava@gmail.com
+        Validity
+            Not Before: Apr 27 15:44:35 2018 GMT
+            Not After : Apr 27 15:44:35 2019 GMT
+        Subject: C=KH, ST=Kandal, O=Angkor Team, OU=Information Technology, CN=localhost/emailAddress=pkayjava@gmail.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:ac:52:61:7a:46:44:e9:79:d8:f3:cd:b8:5d:0d:
+                    79:0c:0b:ff:6b:1f:b6:05:4b:b4:29:23:f8:4f:e4:
+                    5f:f5:ea:a5:98:7c:ca:ce:99:52:b8:ee:46:01:a7:
+                    28:9a:b0:4f:e4:03:e2:eb:72:ca:a2:2f:28:a2:17:
+                    c7:f8:ff:de:c3:a7:b1:60:73:f4:d8:fd:0c:33:44:
+                    bc:2c:34:74:d3:d6:ae:94:65:40:1f:a5:27:52:da:
+                    18:45:ce:bd:7e:84:dd:36:e8:fe:fa:69:59:1b:2e:
+                    db:a8:53:dd:cb:23:7f:d3:cf:d8:f8:26:2a:a0:f1:
+                    96:f9:a4:fe:07:00:9e:85:35:20:0d:33:d0:f4:11:
+                    ee:d7:bc:12:25:11:e6:06:a3:c8:e3:80:a3:ce:af:
+                    76:e2:b5:97:88:cd:48:fc:39:3c:9f:a3:ae:a2:05:
+                    57:b5:c2:ef:d2:97:b3:a8:de:af:f2:3c:d1:a0:92:
+                    98:f0:fc:d0:fd:40:9f:76:70:d0:4d:b5:5e:6f:56:
+                    ae:a2:4f:99:24:a9:f0:28:40:a2:90:1a:f8:8a:c7:
+                    fa:b7:17:59:26:9c:e3:c0:80:93:0b:93:f3:f4:ca:
+                    12:7a:39:6e:9d:6a:c1:ec:d5:ad:23:ce:44:15:1b:
+                    95:ef:5f:b0:b9:80:22:d3:d1:c6:e6:43:21:ce:b9:
+                    7a:97
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Key Usage: 
+                Digital Signature, Non Repudiation, Key Encipherment, Data Encipherment, Key Agreement
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                77:89:DA:0E:BB:3C:1A:73:2C:96:44:A5:5A:A4:9F:FF:8A:D6:3F:21
+            X509v3 Authority Key Identifier: 
+                keyid:51:F8:15:47:9D:70:B7:46:D4:91:64:6C:23:DE:E6:4B:72:0D:A8:B0
+
+            X509v3 Extended Key Usage: critical
+                Time Stamping, TLS Web Server Authentication, TLS Web Client Authentication, Code Signing, E-mail Protection
+    Signature Algorithm: sha256WithRSAEncryption
+         46:f9:70:0a:5a:64:27:33:55:59:44:a6:ab:d5:df:d9:53:9a:
+         75:ec:d3:d2:72:b4:db:85:e2:70:53:07:62:7a:4c:47:6a:57:
+         05:c4:00:ef:af:ca:ed:e7:ea:31:00:23:1d:98:b0:6f:53:25:
+         ac:cb:fe:72:27:af:eb:d6:70:da:b9:bb:0a:ea:ff:62:c9:5d:
+         53:97:04:c8:fd:9e:b6:f2:d5:39:2d:94:a0:8b:9f:e0:9e:a5:
+         52:fa:7b:ba:f3:6c:bd:43:30:2a:3e:7a:d9:dc:3a:e5:d8:e7:
+         47:e1:38:fa:f8:35:ff:f8:08:bb:36:6c:c1:76:8b:29:7c:00:
+         cb:63:14:af:bf:eb:b9:a1:37:59:10:78:f3:02:8f:15:da:3d:
+         ef:51:44:df:cd:0d:6e:86:f6:01:0f:9c:1d:d5:97:0f:a8:22:
+         23:53:74:74:b6:db:5f:9f:6c:25:ef:9c:92:db:9f:95:63:35:
+         ee:fe:fb:b3:18:52:20:1d:7b:25:9c:bc:76:4f:72:d9:db:f7:
+         f8:1c:94:a7:c5:78:f9:bf:94:c0:20:40:31:f3:46:67:90:26:
+         f5:00:87:50:1c:07:69:22:7a:76:1b:d6:fc:d2:69:e8:7b:05:
+         04:44:29:c4:3b:64:f1:d5:4c:f9:21:90:5f:83:71:17:e1:0c:
+         6e:ab:32:8f
+-----BEGIN CERTIFICATE-----
+MIIEdjCCA16gAwIBAgIBATANBgkqhkiG9w0BAQsFADCBozELMAkGA1UEBhMCS0gx
+DzANBgNVBAgMBkthbmRhbDETMBEGA1UEBwwKUGhub20gUGVuaDEUMBIGA1UECgwL
+QW5na29yIFRlYW0xHzAdBgNVBAsMFkluZm9ybWF0aW9uIFRlY2hub2xvZ3kxFDAS
+BgNVBAMMC0FuZ2tvciBUZWFtMSEwHwYJKoZIhvcNAQkBFhJwa2F5amF2YUBnbWFp
+bC5jb20wHhcNMTgwNDI3MTU0NDM1WhcNMTkwNDI3MTU0NDM1WjCBjDELMAkGA1UE
+BhMCS0gxDzANBgNVBAgMBkthbmRhbDEUMBIGA1UECgwLQW5na29yIFRlYW0xHzAd
+BgNVBAsMFkluZm9ybWF0aW9uIFRlY2hub2xvZ3kxEjAQBgNVBAMMCWxvY2FsaG9z
+dDEhMB8GCSqGSIb3DQEJARYScGtheWphdmFAZ21haWwuY29tMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEArFJhekZE6XnY8824XQ15DAv/ax+2BUu0KSP4
+T+Rf9eqlmHzKzplSuO5GAacomrBP5APi63LKoi8oohfH+P/ew6exYHP02P0MM0S8
+LDR009aulGVAH6UnUtoYRc69foTdNuj++mlZGy7bqFPdyyN/08/Y+CYqoPGW+aT+
+BwCehTUgDTPQ9BHu17wSJRHmBqPI44Cjzq924rWXiM1I/Dk8n6OuogVXtcLv0pez
+qN6v8jzRoJKY8PzQ/UCfdnDQTbVeb1auok+ZJKnwKECikBr4isf6txdZJpzjwICT
+C5Pz9MoSejlunWrB7NWtI85EFRuV71+wuYAi09HG5kMhzrl6lwIDAQABo4HJMIHG
+MAkGA1UdEwQCMAAwCwYDVR0PBAQDAgP4MCwGCWCGSAGG+EIBDQQfFh1PcGVuU1NM
+IEdlbmVyYXRlZCBDZXJ0aWZpY2F0ZTAdBgNVHQ4EFgQUd4naDrs8GnMslkSlWqSf
+/4rWPyEwHwYDVR0jBBgwFoAUUfgVR51wt0bUkWRsI97mS3INqLAwPgYDVR0lAQH/
+BDQwMgYIKwYBBQUHAwgGCCsGAQUFBwMBBggrBgEFBQcDAgYIKwYBBQUHAwMGCCsG
+AQUFBwMEMA0GCSqGSIb3DQEBCwUAA4IBAQBG+XAKWmQnM1VZRKar1d/ZU5p17NPS
+crTbheJwUwdiekxHalcFxADvr8rt5+oxACMdmLBvUyWsy/5yJ6/r1nDaubsK6v9i
+yV1TlwTI/Z628tU5LZSgi5/gnqVS+nu682y9QzAqPnrZ3Drl2OdH4Tj6+DX/+Ai7
+NmzBdospfADLYxSvv+u5oTdZEHjzAo8V2j3vUUTfzQ1uhvYBD5wd1ZcPqCIjU3R0
+tttfn2wl75yS25+VYzXu/vuzGFIgHXslnLx2T3LZ2/f4HJSnxXj5v5TAIEAx80Zn
+kCb1AIdQHAdpInp2G9b80mnoewUERCnEO2Tx1Uz5IZBfg3EX4QxuqzKP
+-----END CERTIFICATE-----
