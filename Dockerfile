@@ -20,5 +20,5 @@ EXPOSE 9444
 EXPOSE 9009
 EXPOSE 7005
 
-
 CMD ["/opt/tomcat-9.0.8/bin/catalina.sh","run"]
+
