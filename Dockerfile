@@ -1,6 +1,6 @@
 FROM ubuntu:18.04
 
-MAINTAINER Socheat KHAUV pkayjava@gmail.com
+MAINTAINER "Socheat KHAUV" "pkayjava@gmail.com"
 
 ENV JAVA_HOME /opt/jdk1.8.0_292
 

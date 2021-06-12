@@ -1,10 +1,9 @@
 # Features
-- Apache Tomcat v9.0.8
-- OpenSSL v1.1.1-pre6
-- libtcnative v1.2.16
-- Apache Portable Runtime v1.6.3
-- jsvc v1.1.0
-- Oracle JDK v8u172
+- Apache Tomcat v9.0.46
+- libtcnative v1.2.30
+- Apache Portable Runtime v1.7.0
+- jsvc v1.2.4
+- jdk1.8.0_292
 - 1WaySSL + 2WaySSL + Java NIO2 (HTTP/HTTPS/AJP)
 
 # NIO2 Port
